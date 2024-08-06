@@ -35,10 +35,17 @@ music streaming platforms on July 28, 2024.  So, the circumstantial evidence
 seems to suggest that the rather quiet announcement was preplaned for the video
 upload on August 4, 2024.
 
-Since Andy's [video](https://www.youtube.com/watch?v=TAIypDVt9AE) inspired me to
-be confident enough to repaste my own laptops (and also helped me realize I
-shouldn't put paste on the PCH die of the X1 Carbon Gen 6), I think this is the
-least I could do.
+YouTuber Chase Fournier tried to reball the [eMMC](https://en.wikipedia.org/wiki/MultiMediaCard#eMMC)
+chip in a [video](https://www.youtube.com/watch?v=_nxuKCIJc5Q) from June 2024,
+which is from the [video](https://www.youtube.com/watch?v=7MkmLH-uOwI) (in April
+2024), where the Hisense TV of Andy's father broke from the defective eMMC chip.
+
+Also, since Andy's [video](https://www.youtube.com/watch?v=TAIypDVt9AE) inspired
+me to be confident enough to repaste my own laptops (and also helped me realize
+paste doesn't go on the PCH die of the X1 Carbon Gen 6), I think this is the
+least I could do for Andy.  I'll remember Salem Techsperts if I need outside
+computer repair (and I strive to keep my computers cleaner than the ones that
+need cleaning from the channel).
 
 ## Note
 
